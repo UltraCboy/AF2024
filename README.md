@@ -1,9 +1,12 @@
 # Art Fight 2024 Jokers
 
-![AF2024 Preview](https://github.com/UltraCboy/ArtFight2024/blob/main/preview.jpg?raw=true)
+![AF2024 Preview](https://github.com/UltraCboy/AF2024/blob/main/preview.jpg?raw=true)
 
 This is a collection of 3 modded Jokers and 1 modded deck for Balatro, a roguelike deckbuilder game.
-These Jokers were made as attacks against other artists during Art Fight 2024.
+These Jokers were made as gifts for other artists during Art Fight 2024: Seafoam vs Stardust.
+
+While I did keep in mind some design philisophies in order to make these Jokers "fit in" and feel somewhat balanced, I mainly made this mod for fun,
+& their effects were made more for flavor reasons as opposed to balance.
 
 ## How to Install
 - Install [Steamodded](https://github.com/Steamopollys/Steamodded) if you haven't already.
